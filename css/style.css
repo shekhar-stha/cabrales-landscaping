@@ -236,6 +236,14 @@ h6,
     }
 }
 
+.about-img-div{
+    height: 100%;
+}
+
+.about-img-div img{
+    height: 30rem;
+    object-fit: cover;
+}
 
 /*** Facts & Quote ***/
 .facts,
